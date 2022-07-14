@@ -1,0 +1,33 @@
+_repo: Birds-and-their-nests_68416
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howitt, Mary (Mary Botham)
+    aliases:
+    - Hewitt, Mrs. (Mary Botham)
+    - Howitt, Mary Botham
+    birthdate: 1799
+    deathdate: 1888
+    gutenberg_agent_id: '5477'
+    url: http://www.gutenberg.org/2009/agents/5477
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Howitt
+description: ''
+gutenberg_issued: '2022-06-28'
+identifiers:
+  gutenberg: '68416'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924089421063/
+pgterms:marc905: 20220413020215howitt
+pgterms:marc906: '1871'
+pgterms:marc907: US
+production_note: Fiona Holmes and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :George Routledge and Sons,1871.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Birds and their nests
+url: http://www.gutenberg.org/ebooks/68416
